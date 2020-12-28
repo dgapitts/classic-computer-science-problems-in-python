@@ -3,9 +3,9 @@
 My exercises and run time details while working through classic-computer-science-problems-in-python.
 
 Most of code here is from the textbook examples, although I have 
-explored a few simple variations.
+explored a few simple variations. I've also added a README.md to each subfoler with execution notes.
 
-The code here is using a python3.9 feature "Type Hinting Generics In Standard Collections".
+The code here is also using a python3.9 feature "Type Hinting Generics In Standard Collections".
 
 The default python3 version for Ubuntu16.04 is 3.5
 
